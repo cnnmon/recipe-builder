@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Muli:300');
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::-webkit-scrollbar {
+	width: 10px;
+}
+
+::-webkit-scrollbar-track-piece {
+	background-color: #FFF;
+}
+
+::-webkit-scrollbar-thumb {
+	background-color: #CBCBCB;
+	outline: 2px solid #FFF;
+	outline-offset: -2px;
+	border: .1px solid #B7B7B7;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background-color: #909090;
+}
